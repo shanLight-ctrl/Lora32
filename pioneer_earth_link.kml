@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Pioneer Rocket — Live 3D Trajectory</name>
+    <NetworkLink>
+      <name>Mission Trajectory (live from GitHub)</name>
+      <flyToView>1</flyToView>
+      <Link>
+        <href>https://raw.githubusercontent.com/shanLight-ctrl/Lora32/main/mission_trajectory.kml</href>
+        <refreshMode>onInterval</refreshMode>
+        <refreshInterval>3600</refreshInterval>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>

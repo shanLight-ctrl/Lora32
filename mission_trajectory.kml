@@ -3,6 +3,16 @@
 <Document>
   <name>Mission Trajectory</name>
 
+  <LookAt>
+    <longitude>-81.84796</longitude>
+    <latitude>47.98695</latitude>
+    <altitude>2500</altitude>
+    <heading>25</heading>
+    <tilt>65</tilt>
+    <range>6000</range>
+    <altitudeMode>absolute</altitudeMode>
+  </LookAt>
+
   <!-- RED  = powered flight + coast to apogee -->
   <Style id="phase_powered">
     <LabelStyle><scale>0</scale></LabelStyle>
